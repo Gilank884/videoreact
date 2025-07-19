@@ -23,7 +23,7 @@ function Login() {
       <div className="flex-1 flex justify-center items-center">
         <div className="bg-white rounded-md shadow-md p-8 w-full max-w-md">
           <h2 className="text-center text-2xl font-bold text-gray-800 mb-2">Masuk ke Akun</h2>
-          <p className="text-center text-gray-500 mb-6">Yuk, lanjutkan belajar via videobelajar.</p>
+          <p className="text-center text-gray-500 mb-6">Yuk, lanjutin belajarmu di videobelajar.</p>
 
           <form onSubmit={handleLogin} className="space-y-4">
             {/* Email */}

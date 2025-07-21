@@ -61,12 +61,14 @@ function Login() {
             </div>
 
             {/* Tombol Masuk */}
+            <Link to="/main">
             <button
               type="submit"
               className="w-full bg-[#27C55A] text-white py-2 rounded-md hover:bg-green-600 transition"
             >
               Masuk
             </button>
+            </Link>
 
             {/* Jarak */}
             <div className="h-2"></div>

@@ -50,7 +50,13 @@ function Login() {
                 </button>
               </div>
               <div className="text-right text-sm mt-1">
-                <a href="#" className="text-gray-400 hover:text-gray-600">Lupa Password?</a>
+                <button
+                      type="button"
+                      className="text-gray-400 hover:text-gray-600 underline"
+                      onClick={() => alert('Fitur lupa password belum tersedia')}
+                     > Lupa Password?
+                   </button>
+
               </div>
             </div>
 

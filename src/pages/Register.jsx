@@ -1,5 +1,4 @@
 import React from "react";
-import vector from "../assets/vector.png";
 import google from "../assets/google.png";
 import flagID from "../assets/flag-id.png";
 
